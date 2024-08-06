@@ -1,0 +1,9 @@
+disabled-worlds:
+  - world1
+  - world2
+
+hunger-gain: 4 # How many hunger gain after kill
+hunger-lost: 4 # How many hunger lost after dead
+max-hunger: 40 # How many hunger until player cant get more
+
+# If you have some idea you can comment in the spigotmc or create an issue on the github

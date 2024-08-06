@@ -1,0 +1,6 @@
+name: HungerSteal
+version: '1.0'
+main: me.supramental.hungerSteal.HungerSteal
+api-version: '1.13'
+authors: [ Supramental ]
+description: Simple plugin that can make player fight for hunger bar
